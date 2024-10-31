@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+header {
+    background-color: #d7d7fa;
+    padding: 30px;
+    text-align: left;
+    font-size: 35px;
+    color: #3e4866;
+    margin: 0;
+}
+
+nav {
+    background-color: #f8f6ff;
+    padding: 5px;
+    text-align: center;
+    top: 0;
+    position: sticky;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #3e4866;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #d7d7fa;
+    background-color: #3e4866;
+    padding: 22px;
+}
+
+.vid {
+    text-align: center;
+}
+
+body {
+    background-color: #3e4866;
+    color: #d7d7fa;
+    margin: 0;
+}
+
+.pics {
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: bottom;
+    padding: 10px;
+}
+
+.photo {
+    float: right;
+    padding: 10%
+}
+
+.start {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.profile{
+    margin: 20px;
+    padding: 0px;
+}
+
+.profile form fieldset{
+    border-radius: 10%;
+    border-color: #d7d7fa;
+}
+
+.profile form fieldset legend{
+    background-color: #d7d7fa;
+    border-radius: 30%;
+    color: #3e4866;
+    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+article {
+    text-align: left;
+    padding-left: 10%;
+    font-size: 15px;
+}
+
+main{
+    font-size: 15px;
+    margin: 10px;
+}
+
+.first_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.second_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.third_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.fourth_year {
+    background-color: #5f6893;
+    border-radius: 20px;
+    box-shadow: 10px #10101f1a;
+    margin: 20px;
+    padding: 20px;
+}
+
+.quote {
+    text-align: center;
+    clear: both;
+}
+
+.prologueJourney {
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.epilogueJourney {
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.picjourney1 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney2 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney3 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.picjourney4 {
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+.sky{
+    margin: 0;
+    padding: 0;
+}
+
+.futurePlan{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.work{
+    padding: 10px;
+    text-align: center;
+}
+
+.cat{
+    padding: 10px;
+    text-align: center;
+}
+
+.lastThing{
+    padding: 10px;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #d7d7fa;
+    color: #3e4866;
+    padding: 1px;
+    margin: 0;
+    text-align: center;
+    clear: both;
+}
